@@ -50,9 +50,9 @@
 | 💞Project💞 | 💋Description💋 |
 |-----------|----------------|
  [![competitive_codes](https://img.shields.io/badge/competitive_codes-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/competitive_codes) | Olympiads codes |
-| [![controle-de-estoque-em-c](https://img.shields.io/badge/controle--de--estoque--em--c-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/controle-de-estoque-em-c) | Sistema de controle de estoque simples em C |
-| [![calculadora-em-c](https://img.shields.io/badge/calculadora--em--c-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/calculadora-em-c) | Uma calculadora básica feita em C |
-| [![Site-Coquette](https://img.shields.io/badge/Site--Coquette-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/Site-Coquette) | Um site com visual fofo e feminino, feito em HTML |
+| [![controle-de-estoque-em-c](https://img.shields.io/badge/controle--de--estoque--em--c-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/controle-de-estoque-em-c) | Simple storage control |
+| [![calculadora-em-c](https://img.shields.io/badge/calculadora--em--c-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/calculadora-em-c) | Basic calculator in C |
+| [![Site-Coquette](https://img.shields.io/badge/Site--Coquette-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/Site-Coquette) | Cute and feminine website in HTML|
 ---
 
 ## 🧲 Quote
