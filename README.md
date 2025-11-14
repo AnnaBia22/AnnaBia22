@@ -1,4 +1,4 @@
-![Header Banner](github-header-banner.png)
+
 
 <h1 align="center" >❤️Welcome to Anna’s World (@AnnaBia22)❤️</h1>
 <p align="center">
