@@ -54,7 +54,7 @@
 | [![conversor-obi](https://img.shields.io/badge/Conversor_OBI-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/conversor-obi) | Test Case Conversor for OBI|
 | [![personal-website](https://img.shields.io/badge/Personal_Website-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/conversor-obi) | Casual Website for Apresentation|
 | [![code-morse-translator](https://img.shields.io/badge/Morse_Code_Translator-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/conversor-obi) | Translate Latin Script to Code Morse|
-| [![Site-Coquette](https://img.shields.io/badge/Site-Coquette-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/conversor-obi) | A cute website|
+| [![Site-Coquette](https://img.shields.io/badge/Site--Coquette-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/conversor-obi) | A cute website|
 ---
 
 ## 🧲 Quote
