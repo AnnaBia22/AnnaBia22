@@ -9,9 +9,9 @@
 
 ## 🍒 About Me
 
-- 🌹I’m obsessed with **true crime**, **thriller books**, and **programming**🌹  
+- 🌹I’m obsessed with **true crime**, **gothic books**, and **programming**🌹  
 - 🐞Fight Krav Maga and dance Ballet (and some other dances)🐞  
-- 🍓I love the hairless cat🍓
+- 🍓I have a white cat called Marie🍓
 - 📍My favorite colour is red (I think is easy to find out)📍  
 - 📕**she/her**📕
 - ❗Capricorn❗
@@ -39,8 +39,7 @@
 ## 🍎 GitHub Stats
 
 <div align="center">
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=AnnaBia22&show_icons=true&hide_border=false&count_private=true&title_color=A30000&text_color=ffffff&icon_color=A30000&bg_color=0D1117" alt="Stats" />
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBia22&layout=compact&show_icons=true&hide_border=false&title_color=A30000&text_color=ffffff&icon_color=A30000&bg_color=0D1117" alt="Languages" />
+  > _In progress_
 </div>
 
 ---
@@ -52,7 +51,8 @@
  [![competitive_codes](https://img.shields.io/badge/competitive_codes-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/competitive_codes) | Olympiads codes |
 | [![controle-de-estoque-em-c](https://img.shields.io/badge/controle--de--estoque--em--c-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/controle-de-estoque-em-c) | Simple storage control |
 | [![calculadora-em-c](https://img.shields.io/badge/calculadora--em--c-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/calculadora-em-c) | Basic calculator in C |
-| [![Site-Coquette](https://img.shields.io/badge/Site--Coquette-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/Site-Coquette) | Cute and feminine website in HTML|
+| [!Sem-Parar-Site](https://img.shields.io/badge/Projeto_Sem_Parar_Site-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/Site-Coquette) | Website for Sem Parar Project|
+| [!conversor-obi](https://img.shields.io/badge/Conversor_OBI-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/Site-Coquette) | Test Case Conversor for OBI|
 ---
 
 ## 🧲 Quote
