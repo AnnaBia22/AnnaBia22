@@ -35,6 +35,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-A30000?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-A30000?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-A30000?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A30000?style=flat-square&logo=javascript&logoColor=white)
 ---
 
 ## 🍎 GitHub Stats
