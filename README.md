@@ -51,8 +51,8 @@
  [![competitive_codes](https://img.shields.io/badge/competitive_codes-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/competitive_codes) | Olympiads codes |
 | [![controle-de-estoque-em-c](https://img.shields.io/badge/controle--de--estoque--em--c-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/controle-de-estoque-em-c) | Simple storage control |
 | [![calculadora-em-c](https://img.shields.io/badge/calculadora--em--c-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/calculadora-em-c) | Basic calculator in C |
-| [!Sem-Parar-Site](https://img.shields.io/badge/Projeto_Sem_Parar_Site-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/Site-Coquette) | Website for Sem Parar Project|
-| [!conversor-obi](https://img.shields.io/badge/Conversor_OBI-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/Site-Coquette) | Test Case Conversor for OBI|
+| [![Sem-Parar-Site](https://img.shields.io/badge/Projeto_Sem_Parar_Site-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/Sem-Parar-Site) | Website for Sem Parar Project|
+| [![conversor-obi](https://img.shields.io/badge/Conversor_OBI-A30000?style=flat-square&logo=github&logoColor=white)](https://github.com/AnnaBia22/conversor-obi) | Test Case Conversor for OBI|
 ---
 
 ## 🧲 Quote
