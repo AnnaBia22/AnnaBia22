@@ -37,10 +37,7 @@
 ---
 
 ## 🍎 GitHub Stats
-
-<div align="center">
-  > _In progress_
-</div>
+>_In progress_
 
 ---
 
