@@ -22,6 +22,7 @@
 
 [![Email](https://img.shields.io/badge/-abgtravascio@gmail.com-A30000?style=flat-square&logo=gmail&logoColor=white)](mailto:abgtravascio@gmail.com)
 [![Instagram](https://img.shields.io/badge/@annabeatriz2212-A30000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/annabeatriz2212)
+[![LinkedIn](https://img.shields.io/badge/Anna_Travascio-A30000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNOSAzYzAtMS42Ni0xLjM0LTMtMy0zUzMgMS4zNCAzIDMgMy42NiA0LjUgNSA0LjVsLjAyLjAxQzYuNjYgNC41IDggMy4xNiA4IDN6TTIgMjRoNHYtMTJIMlYyNHptNyAwLjAzSDEzdi02LjkyYzAtLjM3LjAyLS43NC4xMy0xLjAxLjMxLS43NyAxLjAyLTEuNTcgMi4yMi0xLjU3IDEuNTcgMCAyLjI3IDEuMjIgMi4yNyAzLjAzVjI0aDR2LTcuMmMwLTMuODQtMi4wNS01LjYzLTQuNzktNS42My0yLjI0IDAtMy4yNCAxLjI3LTMuNzggMi4xN2gtLjAydi0xLjg3SDl2Ny4yMnoiLz4gdGV4dD48L3N2Zz4=)](https://br.linkedin.com/in/anna-beatriz-gomes-travascio-a0b831321)
 
 
 ---
